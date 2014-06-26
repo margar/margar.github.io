@@ -1,6 +1,3 @@
-div{
-	border: 1px solid black;
-}
 body{
 	background-color: #DDA0DD;
 }
@@ -15,5 +12,8 @@ h1{
 	padding: 15px;
 	padding-left: 50px;
 }
-
+button{
+	color: purple;
+	background-color: yellow;
+}
 
