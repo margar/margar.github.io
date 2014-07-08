@@ -1,0 +1,32 @@
+body{
+	background-color: #FFD700;
+}
+.biopic{
+	float:left;
+	max-width: 100%;
+
+}
+h1{
+	padding: 15px;
+	padding-left: 20px;
+	font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+}
+button{
+	color: purple;
+	background-color: yellow;
+}
+
+p:first-letter{
+    text-transform: uppercase;
+}
+p {
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+	letter-spacing:0.05em;
+	text-align:center;
+	margin: 40px auto;
+	text-transform: lowercase;
+	line-height: 135%;
+	font-size:12pt;
+	font-variant: small-caps;
+}
+
