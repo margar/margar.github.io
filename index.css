@@ -1,3 +1,6 @@
+div{
+	border: 1px solid black;
+}
 body{
 	background-color: #FFD700;
 }
@@ -28,5 +31,17 @@ p {
 	line-height: 135%;
 	font-size:12pt;
 	font-variant: small-caps;
+}
+.carouselpic{
+	width: 1000px;
+	height: 400px;
+	float: middle;
+	padding-left: 190px;
+
+}
+.carousel-caption{
+	font-size: 30px;
+	color: maroon;
+
 }
 
